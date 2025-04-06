@@ -1,5 +1,11 @@
 # 💫 About Me:
-💫 About Me:<br>💼 Atualmente trabalho como jovem aprendiz de Soluções Digitais na Bosch;<br>📖 Estou no segundo semestre do curso de Desenvolvimento de Sistemas no Senai;<br>📚 Gosto de ler e aumentar meus conhecimentos, tanto em minhas áreas de interesse, quanto para meu crescimento profissional;<br>🎧 Amo ouvir musicas;<br>🎨 Apesar de gostar e estar no mundo de TI, sou uma pessoa apaixonada por artes.<br>
+Olá! 👋 Eu sou a Nicole Camacho, desenvolvedora apaixonada por tecnologia e por dar vida a ideias por meio do código. Atualmente sou jovem aprendiz na Bosch, estudo Desenvolvimento de Sistemas no técnico e Engenharia de Software na graduação.
+
+Ao longo da minha jornada, explorei diversas tecnologias como HTML5, CSS3, JavaScript, Python, Django, React, NodeJS, GitHub, Figma, entre outras. Gosto de unir lógica e criatividade para construir soluções funcionais e interativas.
+
+Fora do mundo tech, sou apaixonada por leitura, música, pintura, desenho e animes 🎨🎧📚. Esses hobbies alimentam minha criatividade e me ajudam a trazer mais sensibilidade aos projetos.
+
+Seja bem-vindo(a) ao meu portfólio — aqui, cada projeto tem um pedacinho da minha essência. ☕💻
 
 
 ## 🌐 Socials:
