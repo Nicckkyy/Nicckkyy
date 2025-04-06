@@ -5,7 +5,7 @@ Ao longo da minha jornada, explorei diversas tecnologias como HTML5, CSS3, JavaS
 
 Fora do mundo tech, sou apaixonada por leitura, música, pintura, desenho e animes 🎨🎧📚. Esses hobbies alimentam minha criatividade e me ajudam a trazer mais sensibilidade aos projetos.
 
-Seja bem-vindo(a) ao meu portfólio — aqui, cada projeto tem um pedacinho da minha essência. ☕💻
+Seja bem-vindo(a) ao meu github — aqui, cada projeto tem um pedacinho da minha essência. ☕💻
 
 
 ## 🌐 Socials:
